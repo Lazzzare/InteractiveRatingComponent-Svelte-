@@ -11,8 +11,8 @@
 
 # Links
 
-- Solution URL: [GitHub Code](https://github.com/Lazzzare/InteractiveRatingComponent-React-)
-- Live Site URL: [Live Site](https://64d00fc3dad64a06542baa79--grand-rabanadas-8c608d.netlify.app/)
+- Solution URL: [GitHub Code](https://github.com/Lazzzare/InteractiveRatingComponent-Svelte-)
+- Live Site URL: [Live Site](https://interactive-rating-component-svelte.netlify.app/)
 
 # Built With
 
